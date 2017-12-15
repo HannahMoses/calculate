@@ -1,0 +1,23 @@
+Josephine Lee 430706
+Hannah Mungamuri 442781
+
+http://ec2-52-89-88-79.us-west-2.compute.amazonaws.com/~Josephine/login.php
+
+Feature 1: Create a new user
+This feature involved creating a new directory for the user, and adding the user to users.txt
+This can be accessed by clicking the link ,"create an account" , on the login page
+
+Feature 2: Delete account
+This feature involved creating a confirmation button, deleting the user's directory and all 
+files within,and removing the user form users.txt
+This feature can be accessed from the fileaccess.php page after logging in with a valid username
+
+Feature 3: Share file with another user
+This feature involved checking whether the other user exists, checking that the other user does 
+not have a file with the same name, then copying the file.
+This feature can be accessed from the fileacces.php page after logging in, and requires input 
+of another valid username. (So create two users first).
+In practice, since there are no passwords, handing someone else, your username compromises your
+entire account, but let's pretend these are all nice, awesome people with files that don't matter.
+
+No additional login details needed! Just start by creating an account.
